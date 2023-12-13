@@ -1,0 +1,66 @@
+body{
+    font-family: "Plus Jakarta Sans";
+    background-color: white;
+}
+.nav{
+    text-align: right;
+    padding-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: white;
+    border-radius: 20px;
+    border-top: white;
+    position: relative;
+}
+.navitem{
+    color: rgb(142, 142, 142);
+    text-decoration: none;
+    margin-right: 10px;
+    font-weight: 600;
+}
+.currenttab{
+    color: blue;
+}
+.bruhstyle {
+    color: blue;
+    font-weight: 800;
+    position: absolute;
+    left: 150px;
+    font-size: 150%;
+}
+.dino{
+    background-color: rgb(225, 223, 223);
+    padding-bottom: 15px;
+}
+.space{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    position: absolute;
+    background-color: rgb(240, 240, 240);
+}
+.header{
+    text-align: center;
+    position: relative;
+    font-weight: 600;
+    display: block;
+    background-color: rgb(240, 240, 240);
+    color: blue;
+    font-size: 200%;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(240, 240, 240);
+}
+.img{
+    height: 350px;
+    width: 600px;
+}
+.tableauViz{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+}
